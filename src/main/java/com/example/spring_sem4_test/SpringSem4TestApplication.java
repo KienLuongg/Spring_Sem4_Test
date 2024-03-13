@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringSem4TestApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpringSem4TestApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(SpringSem4TestApplication.class, args);
+    }
 
 }
